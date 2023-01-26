@@ -1,0 +1,23 @@
+
+h1{
+    color: rgb(51, 1, 1);
+}
+.body {
+    text-align: center;
+    border: 3px solid green;
+  }
+
+body{
+    text-align: center;
+    list-style-position: inside;
+    border: 10px solid green;
+}
+
+.ingredients{
+color: rgb(8, 207, 25);
+text-align-last: auto;
+}
+
+.instructions{
+
+}
