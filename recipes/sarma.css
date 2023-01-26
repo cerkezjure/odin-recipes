@@ -1,23 +1,47 @@
+body{
+    text-align: center;
+    list-style-position: inside;
+    border: 18px solid green;  
+}
 
 h1{
     color: rgb(51, 1, 1);
 }
-.body {
-    text-align: center;
-    border: 3px solid green;
-  }
 
-body{
-    text-align: center;
-    list-style-position: inside;
-    border: 10px solid green;
+h3{
+    color: rgb(208, 255, 0);
 }
+
+.description{
+    color: rgb(146, 150, 147);
+text-align-last: auto;
+border:5px solid rgb(116, 38, 4);
+margin:auto;
+width:50%;
+padding: 10px;
+}
+
+
 
 .ingredients{
 color: rgb(8, 207, 25);
 text-align-last: auto;
+border:5px solid coral;
+margin:auto;
+width:50%;
+padding: 10px;
 }
 
-.instructions{
-
+.instructions {
+color: rgb(236, 241, 161);
+width: 800px;
+border: 5px solid green;
+border-top-style: solid;
+border-right-style: dotted;
+border-bottom-style: solid;
+border-left-style: dotted;
+align-self: center;
+margin: auto;
+  width: 50%;
+  padding: 10px;
 }
