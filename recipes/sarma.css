@@ -36,12 +36,17 @@ padding: 10px;
 color: rgb(236, 241, 161);
 width: 800px;
 border: 5px solid green;
-border-top-style: solid;
-border-right-style: dotted;
-border-bottom-style: solid;
-border-left-style: dotted;
 align-self: center;
 margin: auto;
   width: 50%;
   padding: 10px;
 }
+.serving{
+    color: blue;
+    text-align-last: auto;
+border:5px solid coral;
+margin:auto;
+width:50%;
+padding: 10px;
+}
+
