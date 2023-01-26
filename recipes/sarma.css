@@ -2,6 +2,7 @@ body{
     text-align: center;
     list-style-position: inside;
     border: 18px solid green;  
+    border-radius: 250px;
 }
 
 h1{
@@ -16,6 +17,7 @@ h3{
     color: rgb(146, 150, 147);
 text-align-last: auto;
 border:5px solid rgb(116, 38, 4);
+border-radius: 20px;
 margin:auto;
 width:50%;
 padding: 10px;
@@ -27,6 +29,7 @@ padding: 10px;
 color: rgb(8, 207, 25);
 text-align-last: auto;
 border:5px solid coral;
+border-radius: 20px;
 margin:auto;
 width:50%;
 padding: 10px;
@@ -36,6 +39,7 @@ padding: 10px;
 color: rgb(236, 241, 161);
 width: 800px;
 border: 5px solid green;
+border-radius: 20px;
 align-self: center;
 margin: auto;
   width: 50%;
@@ -45,6 +49,7 @@ margin: auto;
     color: blue;
     text-align-last: auto;
 border:5px solid coral;
+border-radius: 20px;
 margin:auto;
 width:50%;
 padding: 10px;
