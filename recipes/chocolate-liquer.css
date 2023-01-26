@@ -2,6 +2,33 @@ body{
     text-align: center;
     list-style-position: inside;
     border: 18px solid rgb(4, 185, 4);  
-    border-radius: 1000px;
+    border-radius: 400px;
 }
 
+.description{
+    color: rgb(24, 37, 27);
+    text-align-last: auto;
+    border:5px solid rgb(116, 38, 4);
+    border-radius: 20px;
+    margin:auto;
+    width:50%;
+    padding: 10px;
+}
+.ingredients{
+    color: rgb(27, 39, 30);
+    text-align-last: auto;
+    border:5px solid rgb(240, 235, 233);
+    border-radius: 20px;
+    margin:auto;
+    width:50%;
+    padding: 10px;
+}
+.instructions{
+    color: rgb(14, 44, 21);
+    text-align-last: auto;
+    border:5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin:auto;
+    width:50%;
+    padding: 10px;
+}
