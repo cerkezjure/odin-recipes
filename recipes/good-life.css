@@ -4,3 +4,31 @@ body{
     border: 18px solid rgb(207, 159, 0);  
     border-radius:1000px;
 }
+
+.description{
+    color: rgb(8, 207, 25);
+text-align-last: auto;
+border:5px solid coral;
+border-radius: 20px;
+margin:auto;
+width:50%;
+padding: 10px;
+}
+.ingredients{
+    color: rgb(8, 207, 25);
+text-align-last: auto;
+border:5px solid coral;
+border-radius: 20px;
+margin:auto;
+width:50%;
+padding: 10px;
+}
+.instructions{
+    color: rgb(8, 207, 25);
+text-align-last: auto;
+border:5px solid coral;
+border-radius: 20px;
+margin:auto;
+width:50%;
+padding: 10px;
+}
