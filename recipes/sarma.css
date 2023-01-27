@@ -1,10 +1,9 @@
 body{
     text-align: center;
     list-style-position: inside;
-    border: 18px solid green;  
+    border: 18px solid rgb(131, 2, 2);  
     border-radius: 250px;
-}
-
+}   
 h1{
     color: rgb(51, 1, 1);
 }
